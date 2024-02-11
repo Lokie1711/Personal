@@ -1,0 +1,9 @@
+db:
+  mgmt:
+    driverclass: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5433/test
+    username: postgres
+    password: postgres
+
+server:
+ port: 8989
